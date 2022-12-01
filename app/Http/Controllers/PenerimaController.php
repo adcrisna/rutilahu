@@ -12,6 +12,7 @@ use App\Models\Kriteria;
 use App\Models\Nilai;
 use Illuminate\Support\Facades\DB;
 use App\Models\User;
+use App\Models\Hasil;
 
 class PenerimaController extends Controller
 {
